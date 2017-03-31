@@ -9,6 +9,5 @@ handlers:
 
 - url: /.*
   script: hfwwg.py
-  login: required
 
   
